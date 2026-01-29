@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/deltaarm-robot-emulator-54-63/ros2_emulator_backend"
+}
